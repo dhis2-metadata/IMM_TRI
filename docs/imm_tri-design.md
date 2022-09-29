@@ -121,16 +121,10 @@ The dashboard **['EPI - Immunity Gaps]** is designed to:
 2. Identify potential gaps in immunization and/or VPD surveillance programmes impacted by COVID-19 pandemic
 
 #### [Measles/Rubella suspected cases IDS vs VPD-CS](#measlesrubella-suspected-cases-ids-vs-vpd-cs)
+*Same visualization present on the Program Performance dashboard* 
 
 #### [Measles confirmed cases IDS vs. VPD-CS](#measles-confirmed-cases-ids-vs-vpd-cs)
-
-#### MR1 coverage vs reported measles cases
-
-![MR1 coverage vs reported measles cases](resources/images/mr1-coverage-vs-reported-measles-cases-this-year.png)
-
-#### MR2 coverage vs reported measles cases
-
-![MR2 coverage vs reported measles cases](resources/images/mr2-coverage-vs-reported-measles-cases-this-year.png)
+*Same visualization present on the Program Performance dashboard* 
 
 #### Reported measles cases vs incidence
 
@@ -148,7 +142,7 @@ Looking at coverage and surveillance data together in the same graph can be help
 
 The major questions are whether the trends in the coverage and surveillance data are as expected, or whether there are age groups and/or areas with high numbers of cases that need further examination. Observe the status and trends in vaccine coverage. Are vaccine coverages consistently reaching the national and global targets? When were the different vaccine doses introduced? How did the nationwide and periodic SIAs impact case reports?
 
-##### **Immunization status of confirmed measles cases (VPD-CS) by total and age group**
+#### Immunization status of confirmed measles cases (VPD-CS) by total and age group
 
 Surveillance data should be analyzed with regard to the age and vaccination status of confirmed disease cases. The data can be used to assess if there are children that should have been recently vaccinated by the immunization programme but have been missed.
 
