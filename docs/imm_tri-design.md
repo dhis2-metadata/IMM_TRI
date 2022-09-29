@@ -140,7 +140,7 @@ Looking at coverage and surveillance data together in the same graph can be help
 
 ![Confirmed measles cases vs MR1 & MR2 coverage](resources/images/confirmed-measles-cases-vs-mr1_mr2_coverage.png)
 
-![MR1-2 coverage vs reported measles cases (this year)](
+![MR1-2 coverage vs reported measles cases (this year)](resources/images/Confirmed-measles-cases-vs-MR1_MR2_coverage_maps.png)
 
 The major questions are whether the trends in the coverage and surveillance data are as expected, or whether there are age groups and/or areas with high numbers of cases that need further examination. Observe the status and trends in vaccine coverage. Are vaccine coverages consistently reaching the national and global targets? When were the different vaccine doses introduced? How did the nationwide and periodic SIAs impact case reports?
 
