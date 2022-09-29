@@ -1,4 +1,4 @@
-# Immunization Triangulation Dashboard Design
+# Immunization Triangulation Dashboard Design { #imm-tri-design }
 
 ## Introduction
 
