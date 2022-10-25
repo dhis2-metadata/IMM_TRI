@@ -31,6 +31,9 @@ The dashboards included in this package are developed re-using the underlying me
 2. Integrated Disease Surveillance (IDS) aggregate package
 3. Case-based tracker for vaccine-preventable diseases (VPDs)
 
+> NOTE: 
+> Please note that the dashboards described in this document and available in the downloadable package are fully based on the measles vaccine as an example for data use. The dashboards and visualizations can be uptaken and generated locally with any other relevant vaccine for the purpose of analysis.
+
 ### Programme Performance & Data Quality
 
 The dashboard **[EPI - Programme Performance]** is designed to:
