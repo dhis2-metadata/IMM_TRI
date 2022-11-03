@@ -5400,44 +5400,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#ED00FF",
-                    "endValue": 1000.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "sP4oPVfcyUM",
-                    "name": "Invalid",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 100.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#F03B20",
-                    "endValue": 70.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "lGyKnHfmwHB",
-                    "name": "Low",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#4DAC26",
                     "endValue": 100.0,
                     "externalAccess": false,
@@ -5470,6 +5432,44 @@
                         "users": {}
                     },
                     "startValue": 70.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#ED00FF",
+                    "endValue": 1000.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "sP4oPVfcyUM",
+                    "name": "Invalid",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 100.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#F03B20",
+                    "endValue": 70.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "lGyKnHfmwHB",
+                    "name": "Low",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -5557,25 +5557,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#ED00FF",
-                    "endValue": 0.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "zOBEfagpN2O",
-                    "name": "Negative",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 100.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#4DAC26",
                     "endValue": 10.0,
                     "externalAccess": false,
@@ -5589,6 +5570,25 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#ED00FF",
+                    "endValue": 0.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "zOBEfagpN2O",
+                    "name": "Negative",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 100.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -6543,8 +6543,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "IMM_TRI",
-        "description": "Immunization triangulation package",
-        "lastUpdated": "20221012T132805",
+        "description": "Immunization Triangulation Dashboard",
+        "lastUpdated": "20221103T120847",
         "locale": "en",
         "name": "IMM_TRI_DSH_DHIS2.36.12-en",
         "type": "DSH",
@@ -6695,11 +6695,7 @@
             },
             "userAccesses": [],
             "userGroupAccesses": [],
-            "users": [
-                {
-                    "id": "vUeLeQMSwhN"
-                }
-            ]
+            "users": []
         }
     ],
     "users": [
