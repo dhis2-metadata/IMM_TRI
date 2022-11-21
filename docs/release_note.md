@@ -1,4 +1,4 @@
-# Release note
+# Release Note { #imm-tri-release-note }
 
 ## 1.0.0
 
