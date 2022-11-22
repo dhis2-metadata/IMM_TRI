@@ -1,5 +1,9 @@
 # Immunization Triangulation Dashboard
 
+## Release Note
+
+- [Release Note](#imm-tri-release-note)
+
 ## Design
 
 - [Version 1.0.0](#imm-tri-design)
@@ -7,10 +11,6 @@
 ## Installation
 
 - [Installation Guide](#imm-tri-installation)
-
-## Release Note
-
-- [Release Note](#imm-tri-release-note)
 
 ## Metadata Reference
 
